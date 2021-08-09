@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamed Ahmadi
 - 👀 I’m interested in programming and linux
 - 🌱 I’m currently learning django rest framework 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working with Legaland group 
 - 📫 How to reach me ahmadihamed231@gmail.com
 
 <!---
