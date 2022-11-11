@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamed Ahmadi
 - 👀 I’m interested in web developing and linux
-- 🌱 I’m currently learning algorithms 
+- 🌱 I’m currently learning ttd 
 - 💞️ I’m working with Ahmadi construction firm
 - 📫 How to reach me ahmadihamed231@gmail.com
 
