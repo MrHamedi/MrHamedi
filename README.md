@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamed Ahmadi
 - 👀 I’m interested in web developing and linux
-- 🌱 I’m currently working on  VulnerableWeb as an open source project and I'm learning  Celery
-- 💞️ I’m working with Scorize firm
+- 🌱 I’m currently working on  VulnerableWeb and I'm learning  Celery
+- 💞️ I’m working with Scorize firm as a backend developer
 - 📫 How to reach me ahmadihamed167@gmail.com
